@@ -44,6 +44,8 @@ package com.cmbchina.leetcode;
  * size();
  * isEmpty();
  *
+ * LinkedList充当queue和stack
+ *
  * //Queue
  * offer(); 插入
  * poll();  删除,返回队头元素
